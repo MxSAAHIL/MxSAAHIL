@@ -12,6 +12,8 @@ I am a fast learner and always eager to work on challenging projects that help m
 ## 🧰 **Languages and Tools**
 
 ## 🧠 AI / ML
+
+---
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
@@ -21,26 +23,13 @@ I am a fast learner and always eager to work on challenging projects that help m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
-</p>
-
----
-
-## 📊 Visualization
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45"/>
-</p>
-
----
-
-## 🛠 Tools
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <!-- LangChain does not have an official Devicon icon, so using SVG -->
+  <!-- LangChain -->
   <img src="https://raw.githubusercontent.com/sushmoy27/langchain-icon/main/langchain-icon.svg" width="45"/>
 </p>
+
 
 
 ---
