@@ -5,7 +5,6 @@
 I am a passionate AI/ML developer who loves building intelligent systems, training machine learning models, and exploring how AI can solve real-world problems. I enjoy experimenting with deep learning, agentic AI, and modern LLM workflows. Always learning, always improving.
 
 - 📫 Reach me: **Muhammedsaahil944@gmail.com**
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhammedsaahil/)**
 
 ---
 
@@ -24,4 +23,13 @@ I am a passionate AI/ML developer who loves building intelligent systems, traini
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/sushmoy27/langchain-icon/main/langchain-icon.svg" width="45"/>
+</p>
+
+---
+
+## 🔗 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/muhammedsaahil/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
 </p>
